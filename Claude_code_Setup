@@ -1,0 +1,8 @@
+1. curl -fsSL https://claude.ai/install.sh | bash
+Setup notes:
+  • Native installation exists but ~/.local/bin is not in your PATH. Run:
+
+  echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.zshrc && source ~/.zshrc
+
+2.launch
+claude
