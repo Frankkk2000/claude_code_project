@@ -22,3 +22,7 @@ brew install npm
 
 /rewind: rollback
 claude -c # continue the session
+
+
+langchain
+LCEL
